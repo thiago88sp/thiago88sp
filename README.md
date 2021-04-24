@@ -5,8 +5,8 @@
 - 🎓 Graduated in Computer Networks at Universidade Cruzeiro do Sul and post-graduated in IT Management by the Brazilian Institute of Advanced Technology.
 - 💪 I have been working in the IT area for over 14 years, with experience in the health and financial sector.
 <br>
-- I quote some of my main knowledge:
-
+I quote some of my main knowledge:
+<br>
 - ► Solid knowledge of good practices and governance of IT services (COBIT, ITIL) for improvement and quality of operations and services offered on a daily basis.
 - ► Ability to innovate and create improvements in implemented processes, leading work teams and generating gains directly related to productivity and quality;
 - ► Support team supervision
