@@ -7,17 +7,17 @@
 <br>
 I quote some of my main knowledge:
 <br>
-► Solid knowledge of good practices and governance of IT services (COBIT, ITIL) for improvement and quality of operations and services offered on a daily basis.
-► Support team supervision.
-► Management of contracts with suppliers.
-► Knowledge in agile methodologies (such as Scrum and Kanban).
-► Practical experience in critical environments working with DevOps: continuous integration (CI), continuous deployment (CD), automated tests, infrastructure such as code and technologies such as PaaS, IaaS, SaaS, Web, Was, Firewall, Proxy, Java, Jab, Mainframe , Docker, Kubernetes, Cerberon, JIRA, ServiceNow among others.
-► ☁️ I have knowledge in Microsoft Azure solutions (AKS, Compute, Storage, Networking, Microservices, Functions, Application Insights, API Connections, Azure DevOps).
-► Architecture of distributed systems.
-► Knowledge in practices and culture Devops and SRE (Site Reliability Engineer).
+► Solid knowledge of good practices and governance of IT services (COBIT, ITIL) for improvement and quality of operations and services offered on a daily basis.<br />
+► Support team supervision.<br />
+► Management of contracts with suppliers.<br />
+► Knowledge in agile methodologies (such as Scrum and Kanban).<br />
+► Practical experience in critical environments working with DevOps: continuous integration (CI), continuous deployment (CD), automated tests, infrastructure such as code and technologies such as PaaS, IaaS, SaaS, Web, Was, Firewall, Proxy, Java, Jab, Mainframe , Docker, Kubernetes, Cerberon, JIRA, ServiceNow among others.<br />
+► ☁️ I have knowledge in Microsoft Azure solutions (AKS, Compute, Storage, Networking, Microservices, Functions, Application Insights, API Connections, Azure DevOps).<br />
+► Architecture of distributed systems.<br />
+► Knowledge in practices and culture Devops and SRE (Site Reliability Engineer).<br />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiago88sp)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thiagopontes88) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiagosouzapontes/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiagopontes88/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thiago.souza.pontes/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thiagopontes88) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiagosouzapontes/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiagopontes88/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thiago.souza.pontes/)
 
 
