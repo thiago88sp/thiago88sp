@@ -1,3 +1,5 @@
+# ![Azure Fundamentals](https://user-images.githubusercontent.com/54182968/115972832-2f409000-a527-11eb-81cc-6d86d6c5bdd0.png)
+# ![Azure Administrator](https://user-images.githubusercontent.com/54182968/115972827-2485fb00-a527-11eb-8316-185b1c1ec2bc.png)
 # ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972522-41b9ca00-a525-11eb-904c-247bc64e6bec.png)
 
 ### Hi 👋
@@ -15,6 +17,7 @@ I quote some of my main knowledge:<br />
 ► ☁️ I have knowledge in Microsoft Azure solutions (AKS, Compute, Storage, Networking, Microservices, Functions, Application Insights, API Connections, Azure DevOps).<br />
 ► Architecture of distributed systems.<br />
 ► Knowledge in practices and culture Devops and SRE (Site Reliability Engineer).<br />
+<br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiago88sp)
 
