@@ -1,4 +1,4 @@
-# -<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+# ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972522-41b9ca00-a525-11eb-904c-247bc64e6bec.png)
 
 ### Hi 👋
 
@@ -20,4 +20,4 @@ I quote some of my main knowledge:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thiagopontes88) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiagosouzapontes/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiagopontes88/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thiago.souza.pontes/)
 
-![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972522-41b9ca00-a525-11eb-904c-247bc64e6bec.png)
+
