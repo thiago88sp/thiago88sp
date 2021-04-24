@@ -1,6 +1,6 @@
-# ![Azure Fundamentals](https://user-images.githubusercontent.com/54182968/115972832-2f409000-a527-11eb-81cc-6d86d6c5bdd0.png)
-# ![Azure Administrator](https://user-images.githubusercontent.com/54182968/115972827-2485fb00-a527-11eb-8316-185b1c1ec2bc.png)
-# ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972522-41b9ca00-a525-11eb-904c-247bc64e6bec.png)
+![Azure Fundamentals](https://user-images.githubusercontent.com/54182968/115972832-2f409000-a527-11eb-81cc-6d86d6c5bdd0.png)
+![Azure Administrator](https://user-images.githubusercontent.com/54182968/115972827-2485fb00-a527-11eb-8316-185b1c1ec2bc.png)
+![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972522-41b9ca00-a525-11eb-904c-247bc64e6bec.png)
 
 ### Hi 👋
 
