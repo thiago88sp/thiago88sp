@@ -4,18 +4,18 @@
 
 - 🎓 Graduated in Computer Networks at Universidade Cruzeiro do Sul and post-graduated in IT Management by the Brazilian Institute of Advanced Technology.
 - 💪 I have been working in the IT area for over 14 years, with experience in the health and financial sector.
+<br>
+- I quote some of my main knowledge:
 
-I quote some of my main knowledge:
-
-► Solid knowledge of good practices and governance of IT services (COBIT, ITIL) for improvement and quality of operations and services offered on a daily basis.
-► Ability to innovate and create improvements in implemented processes, leading work teams and generating gains directly related to productivity and quality;
-► Support team supervision
-► Management of contracts with suppliers.
-► Knowledge in agile methodologies (such as Scrum and Kanban)
-► Practical experience in critical environments working with DevOps: continuous integration (CI), continuous deployment (CD), automated tests, infrastructure such as code and technologies such as PaaS, IaaS, SaaS, Web, Was, Firewall, Proxy, Java, Jab, Mainframe , Docker, Kubernetes, Cerberon, JIRA, ServiceNow among others;
-► ☁️ I have knowledge in Microsoft Azure solutions (AKS, Compute, Storage, Networking, Microservices, Functions, Application Insights, API Connections, Azure DevOps).
-► Architecture of distributed systems.
-► Knowledge in practices and culture Devops and SRE (Site Reliability Engineer).
+- ► Solid knowledge of good practices and governance of IT services (COBIT, ITIL) for improvement and quality of operations and services offered on a daily basis.
+- ► Ability to innovate and create improvements in implemented processes, leading work teams and generating gains directly related to productivity and quality;
+- ► Support team supervision
+- ► Management of contracts with suppliers.
+- ► Knowledge in agile methodologies (such as Scrum and Kanban)
+- ► Practical experience in critical environments working with DevOps: continuous integration (CI), continuous deployment (CD), automated tests, infrastructure such as code and technologies such as PaaS, IaaS, SaaS, Web, Was, Firewall, Proxy, Java, Jab, Mainframe , Docker, Kubernetes, Cerberon, JIRA, ServiceNow among others;
+- ► ☁️ I have knowledge in Microsoft Azure solutions (AKS, Compute, Storage, Networking, Microservices, Functions, Application Insights, API Connections, Azure DevOps).
+- ► Architecture of distributed systems.
+- ► Knowledge in practices and culture Devops and SRE (Site Reliability Engineer).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiago88sp)
 
