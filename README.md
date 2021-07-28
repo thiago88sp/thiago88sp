@@ -1,6 +1,7 @@
 ![Azure Fundamentals](https://user-images.githubusercontent.com/54182968/115972944-ec32ec80-a527-11eb-97a7-aa7e2d6fbc9e.png)
 ![Azure Administrator](https://user-images.githubusercontent.com/54182968/115972948-f523be00-a527-11eb-81d2-c589cd9e5de1.png)
 ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972952-fc4acc00-a527-11eb-8ad8-808ee15fe000.png)
+![CERT-Expert-DevOps-Engineer-600x600](https://user-images.githubusercontent.com/54182968/127394591-9273484f-fb15-48b1-b601-6f54d8c5da99.png)
 ![oci-operations](https://user-images.githubusercontent.com/54182968/115973031-7713e700-a528-11eb-9337-2ae52378f95b.png)
 ![oci-architect](https://user-images.githubusercontent.com/54182968/115973035-7f6c2200-a528-11eb-8080-eef0dc058ee9.png)
 
