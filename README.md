@@ -2,7 +2,7 @@
 ![Azure Administrator](https://user-images.githubusercontent.com/54182968/115972948-f523be00-a527-11eb-81d2-c589cd9e5de1.png)
 ![microsoft-certified-azure-solutions-architect-expert 1](https://user-images.githubusercontent.com/54182968/115972952-fc4acc00-a527-11eb-8ad8-808ee15fe000.png)
 ![CERT-Expert-DevOps-Engineer-600x600](https://user-images.githubusercontent.com/54182968/127394591-9273484f-fb15-48b1-b601-6f54d8c5da99.png)
-<img width="98" alt="AZ500" src="https://user-images.githubusercontent.com/54182968/196791600-c79dcef0-15bd-4f16-932c-be8836d7c0f0.png">
+<img width="105" alt="AZ500" src="https://user-images.githubusercontent.com/54182968/196792465-e5f5407d-fcdd-43fb-9bed-4cef5c4710e6.png">
 ![oci-operations](https://user-images.githubusercontent.com/54182968/115973031-7713e700-a528-11eb-9337-2ae52378f95b.png)
 ![oci-architect](https://user-images.githubusercontent.com/54182968/115973035-7f6c2200-a528-11eb-8080-eef0dc058ee9.png)
 ![AWS-Certified-Cloud-Practitioner_badge 634f8a21af2e0e956ed8905a72366146ba22b74c](https://user-images.githubusercontent.com/54182968/196791092-3a92fa8f-6ba9-4c4a-9813-d6a9de1199bc.png)
@@ -27,6 +27,7 @@ I quote some of my main knowledge:<br />
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thiago88sp)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thiagopontes88) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiagosouzapontes/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thiagopontes88/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thiago.souza.pontes/)
+
 
 
 
