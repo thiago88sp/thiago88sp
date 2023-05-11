@@ -6,8 +6,7 @@
 ![oci-operations](https://user-images.githubusercontent.com/54182968/115973031-7713e700-a528-11eb-9337-2ae52378f95b.png)
 ![oci-architect](https://user-images.githubusercontent.com/54182968/115973035-7f6c2200-a528-11eb-8080-eef0dc058ee9.png)
 ![AWS-Certified-Cloud-Practitioner_badge 634f8a21af2e0e956ed8905a72366146ba22b74c](https://user-images.githubusercontent.com/54182968/196791092-3a92fa8f-6ba9-4c4a-9813-d6a9de1199bc.png)
-![CKA](https://github.com/thiago88sp/thiago88sp/assets/54182968/b3589e5d-8f7f-46e8-8775-18e1d4098d52)
-
+![CKA](https://github.com/thiago88sp/thiago88sp/assets/54182968/7338a8ab-9383-4723-8e34-df0c29b20af5)
 
 ### Hi 👋
 
